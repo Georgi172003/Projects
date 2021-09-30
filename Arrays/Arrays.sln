@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zad 3", "Zad 3\Zad 3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove negative", "Remove negative\Remove negative.csproj", "{566264C3-9483-4C4B-9B19-7E8290F2EFCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Manipulation Basic", "List Manipulation Basic\List Manipulation Basic.csproj", "{8C6B4DFE-63F1-461B-9E54-8428A9C0B50D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{566264C3-9483-4C4B-9B19-7E8290F2EFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566264C3-9483-4C4B-9B19-7E8290F2EFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566264C3-9483-4C4B-9B19-7E8290F2EFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6B4DFE-63F1-461B-9E54-8428A9C0B50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6B4DFE-63F1-461B-9E54-8428A9C0B50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6B4DFE-63F1-461B-9E54-8428A9C0B50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6B4DFE-63F1-461B-9E54-8428A9C0B50D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
